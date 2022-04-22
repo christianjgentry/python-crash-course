@@ -14,10 +14,8 @@
 # print(age2>17)
 # print(age2<17)
 
-from tkinter import N
 
-
-bobatoppings = ['boba', 'lychee', 'fresh fruit', 'grass jelly', 'popping boba']
+bobatoppings = ['boba', 'lychee', 'fresh fruit', 'grass jelly', 'popping boba', 'mango']
 # print('boba'in bobatoppings)
 # print('custard' not in bobatoppings)
 # print('boba' and 'lychee' in bobatoppings)
