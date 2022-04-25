@@ -1,6 +1,3 @@
-from email import message_from_binary_file
-
-
 message = "Hello Python World!"
 print(message)
 
